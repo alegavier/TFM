@@ -1,0 +1,33 @@
+HLA-A*01:01,9
+HLA-A*26:01,9
+HLA-A*32:01,9
+HLA-A*02:01,9
+HLA-A*02:03,9
+HLA-A*02:06,9
+HLA-A*68:02,9
+HLA-A*23:01,9
+HLA-A*24:02,9
+HLA-A*03:01,9
+HLA-A*11:01,9
+HLA-A*30:01,9
+HLA-A*31:01,9
+HLA-A*33:01,9
+HLA-A*68:01,9
+HLA-B*40:01,9
+HLA-B*44:02,9 
+HLA-B*44:03,9
+HLA-B*57:01,9
+HLA-B*58:01,9
+HLA-B*15:01,9
+HLA-B*07:02,9
+HLA-B*35:01,9
+HLA-B*51:01,9
+HLA-B*53:01,9 
+HLA-B*08:01,9
+
+1. evaluar las 25 EN EL PAPER YA QUE SON CANDIDATOS EVALUADOS 
+2. HOMOLOGO MURINO //
+ANALIZAR EN LOS 3 DATASETS EN BASE a los datos de Germán para ver qué candidatos se encuentran 
+únicamente en tejido tumoral
+3. Quedarnos solo con los expresados en tejido tumoral y mirar la inmunogenicidad de esos.
+4. Realizar una búsqueda bibliográfica de los 6 o 5 seleccionados
