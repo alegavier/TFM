@@ -1,5 +1,4 @@
-Proteina	Localizacion
-x	
+Proteina	Localizacion	
 A0A075B6J1	Secreted {ECO:0000303|PubMed:20176268,
 A0A087WSX0	Secreted {ECO:0000303|PubMed:20176268,
 A0A0A0MS15	Secreted {ECO:0000303|PubMed:20176268,
