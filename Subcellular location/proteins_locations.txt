@@ -1,0 +1,243 @@
+Proteina	Localizacion
+x	
+A0A075B6J1	Secreted {ECO:0000303|PubMed:20176268,
+A0A087WSX0	Secreted {ECO:0000303|PubMed:20176268,
+A0A0A0MS15	Secreted {ECO:0000303|PubMed:20176268,
+A0A0A0MT89	Secreted {ECO:0000303|PubMed:20176268,
+A0A0B4J1V0	Secreted {ECO:0000303|PubMed:20176268,
+A0A0B4J1X5	Secreted {ECO:0000303|PubMed:20176268,
+A0A0B4J1X8	Secreted {ECO:0000303|PubMed:20176268,
+A0A0B4J1Y9	Secreted {ECO:0000303|PubMed:20176268,
+A0A0J9YX35	Secreted {ECO:0000303|PubMed:20176268,
+A0A0J9YXX1	Secreted {ECO:0000303|PubMed:20176268,
+O00115	Lysosome.
+O00425	Nucleus. Cytoplasm. Cytoplasm, P-body
+O00469	Rough endoplasmic reticulum membrane; Peripheral
+O14498	Secreted {ECO:0000305}.
+O14960	Cytoplasm {ECO:0000269|PubMed:8877413}. Secreted
+O15195	
+O15427	Cell membrane {ECO:0000269|PubMed:10921872,
+O43633	Late endosome membrane
+O43653	Cell membrane {ECO:0000269|PubMed:9465086};
+O60565	Secreted {ECO:0000305}.
+O60635	Lysosome membrane {ECO:0000269|PubMed:19508227};
+O75129	Membrane {ECO:0000250|UniProtKB:Q80Z10}; Multi-
+O75342	Cytoplasm {ECO:0000255|PROSITE-ProRule:PRU00726}.
+O75363	Cytoplasm {ECO:0000269|PubMed:14567997}.
+O75718	Secreted, extracellular space, extracellular
+O95171	Cytoplasm. Membrane. Note=May become cross-linked
+O95715	Secreted.
+O95833	Nucleus. Membrane; Single-pass membrane protein.
+O95857	Membrane {ECO:0000305}; Multi-pass membrane
+O95965	Secreted {ECO:0000305}.
+O95967	Secreted, extracellular space, extracellular
+O95994	Secreted {ECO:0000269|PubMed:15834940}.
+O95998	Secreted {ECO:0000269|PubMed:31213488}.
+P00736	Secreted {ECO:0000269|PubMed:27745832}.
+P00749	Secreted {ECO:0000269|PubMed:24434139}.
+P01344	Secreted {ECO:0000269|PubMed:16040806}.
+P01591	Secreted {ECO:0000250|UniProtKB:P01592}.
+P01706	Secreted {ECO:0000303|PubMed:20176268,
+P01709	Secreted {ECO:0000303|PubMed:20176268,
+P01717	Secreted {ECO:0000303|PubMed:20176268,
+P01718	Secreted {ECO:0000303|PubMed:20176268,
+P01764	Secreted {ECO:0000303|PubMed:20176268,
+P01766	Secreted {ECO:0000303|PubMed:20176268,
+P01780	Secreted {ECO:0000303|PubMed:20176268,
+P01782	Secreted {ECO:0000303|PubMed:20176268,
+P01814	Secreted {ECO:0000303|PubMed:20176268,
+P01876	[Isoform 1]: Secreted
+P02452	Secreted, extracellular space, extracellular
+P02461	Secreted, extracellular space, extracellular
+P02538	
+P02649	Secreted {ECO:0000269|PubMed:2498325,
+P02751	Secreted, extracellular space, extracellular
+P02774	Secreted {ECO:0000269|PubMed:2423133}.
+P02792	
+P03973	Secreted {ECO:0000269|PubMed:2039600,
+P04155	Secreted {ECO:0000269|PubMed:15924415,
+P04259	
+P05121	Secreted {ECO:0000269|PubMed:2430793}.
+P05161	Cytoplasm {ECO:0000269|PubMed:22859821}. Secreted
+P06703	Nucleus envelope. Cytoplasm. Cell membrane;
+P06731	Cell membrane {ECO:0000269|PubMed:10864933,
+P07996	Secreted {ECO:0000269|PubMed:101549,
+P08134	Cell membrane {ECO:0000305}; Lipid-anchor
+P08174	[Isoform 1]: Cell membrane; Single-pass type I
+P08253	[Isoform 1]: Secreted, extracellular space,
+P08476	Secreted.
+P08493	Secreted.
+P08637	Cell membrane {ECO:0000269|PubMed:1825220,
+P08727	
+P08729	Cytoplasm {ECO:0000269|PubMed:2459129}.
+P08779	
+P09237	Secreted, extracellular space, extracellular
+P09486	Secreted, extracellular space, extracellular
+P10915	Secreted, extracellular space, extracellular
+P11166	Cell membrane {ECO:0000269|PubMed:18245775,
+P12035	
+P12107	Secreted, extracellular space, extracellular
+P12838	Secreted {ECO:0000250|UniProtKB:Q01523}.
+P13611	Secreted, extracellular space, extracellular
+P13674	Endoplasmic reticulum lumen.
+P13688	[Isoform 1]: Cell membrane
+P13987	Cell membrane; Lipid-anchor, GPI-anchor.
+P14091	Endosome {ECO:0000269|PubMed:7983070}. Note=The
+P14406	Mitochondrion inner membrane
+P15153	Cytoplasm. Note=Membrane-associated when
+P15313	Apical cell membrane
+P15559	Cytoplasm, cytosol
+P16035	Secreted.
+P17301	Membrane; Single-pass type I membrane protein.
+P17342	Cell membrane {ECO:0000269|PubMed:30032985};
+P17936	Secreted {ECO:0000269|PubMed:20353938}.
+P18510	[Isoform 1]: Secreted
+P18827	Membrane {ECO:0000255}; Single-pass type I
+P19957	Secreted.
+P20061	Secreted.
+P20591	Cytoplasm {ECO:0000269|PubMed:11880649,
+P21741	Secreted.
+P21810	Secreted, extracellular space, extracellular
+P22352	Secreted.
+P22676	
+P23142	Secreted, extracellular space, extracellular
+P24557	Endoplasmic reticulum membrane
+P24821	Secreted, extracellular space, extracellular
+P25815	Nucleus. Cytoplasm. Cell projection, microvillus
+P27144	Mitochondrion matrix {ECO:0000255|HAMAP-
+P29034	
+P29373	Cytoplasm. Endoplasmic reticulum. Nucleus.
+P29508	Cytoplasm {ECO:0000269|PubMed:10956412,
+P29590	Nucleus. Nucleus, nucleoplasm. Cytoplasm
+P29728	Cytoplasm {ECO:0000269|PubMed:19923450}.
+P31947	Cytoplasm. Nucleus {ECO:0000250}. Secreted.
+P31949	Cytoplasm {ECO:0000269|PubMed:18618420}. Nucleus
+P32456	Cytoplasmic vesicle membrane
+P33241	Cell membrane; Peripheral membrane protein;
+P35442	
+P36952	Secreted, extracellular space.
+P36955	Secreted {ECO:0000269|PubMed:17081065}.
+P40261	Cytoplasm.
+P42830	Secreted.
+P49747	Secreted, extracellular space, extracellular
+P50452	Cytoplasm.
+P50454	Endoplasmic reticulum lumen.
+P50479	[Isoform 1]: Cytoplasm, cytoskeleton
+P51888	Secreted, extracellular space, extracellular
+P52179	Cytoplasm, myofibril, sarcomere, M line
+P52789	Mitochondrion outer membrane
+P52790	
+P53801	Membrane {ECO:0000305}; Single-pass type I
+P54108	Secreted. Note=In neutrophils, localized in
+P55083	Secreted, extracellular space, extracellular
+P55774	Secreted.
+P56134	Mitochondrion. Mitochondrion inner membrane
+P56856	Cell junction, tight junction
+P59998	Cytoplasm, cytoskeleton
+P61626	Secreted.
+P61769	Secreted {ECO:0000269|PubMed:1336137,
+P61812	[Latency-associated peptide]: Secreted,
+P62310	Nucleus {ECO:0000269|PubMed:10523320,
+P62312	Cytoplasm {ECO:0000269|PubMed:12515382}. Nucleus
+P62736	Cytoplasm, cytoskeleton.
+P62760	
+P80723	Cell membrane; Lipid-anchor. Cell projection,
+P83110	Secreted {ECO:0000269|PubMed:21321049}.
+P98066	Secreted {ECO:0000269|PubMed:1730767}.
+P98095	Secreted, extracellular space, extracellular
+Q01658	Nucleus.
+Q01995	Cytoplasm {ECO:0000305}.
+Q03692	Secreted, extracellular space, extracellular
+Q04695	Cytoplasm {ECO:0000250|UniProtKB:Q9QWL7}.
+Q05682	Cytoplasm, cytoskeleton
+Q07817	[Isoform Bcl-X(L)]: Mitochondrion inner membrane
+Q08380	Secreted {ECO:0000269|PubMed:8390986}. Secreted,
+Q12805	Secreted, extracellular space {ECO:0000250}.
+Q12841	Secreted {ECO:0000305}.
+Q13421	Cell membrane; Lipid-anchor, GPI-anchor. Golgi
+Q13443	[Isoform 1]: Cell membrane
+Q13643	Nucleus {ECO:0000250|UniProtKB:Q9R059}. Cytoplasm
+Q13751	Secreted, extracellular space, extracellular
+Q13753	Secreted, extracellular space, extracellular
+Q14002	Cell membrane {ECO:0000305}; Lipid-anchor, GPI-
+Q14134	Cytoplasm {ECO:0000269|PubMed:7644499}. Lysosome
+Q14192	Cytoplasm {ECO:0000269|PubMed:11813260,
+Q14508	Secreted {ECO:0000269|PubMed:15781627,
+Q14573	Endoplasmic reticulum membrane; Multi-pass
+Q14728	Nucleus inner membrane
+Q14766	Secreted {ECO:0000269|PubMed:16157329}. Secreted,
+Q15063	Golgi apparatus {ECO:0000250|UniProtKB:Q62009}.
+Q15080	Cytoplasm, cytosol {ECO:0000269|PubMed:8280052}.
+Q15113	Secreted.
+Q15149	Cytoplasm, cytoskeleton
+Q15392	Endoplasmic reticulum membrane
+Q15417	
+Q16270	Secreted.
+Q16553	Cell membrane {ECO:0000250|UniProtKB:Q64253};
+Q16656	Nucleus.
+Q16674	Secreted.
+Q16787	Secreted, extracellular space, extracellular
+Q32P51	Nucleus {ECO:0000250}. Cytoplasm {ECO:0000250}.
+Q4ZHG4	Secreted {ECO:0000305}.
+Q53GD3	Membrane {ECO:0000269|PubMed:24379411,
+Q56VL3	Endosome {ECO:0000305}.
+Q5TEA6	Membrane; Single-pass type I membrane protein.
+Q5VYY1	
+Q5XXA6	Apical cell membrane
+Q6FHJ7	Secreted {ECO:0000269|PubMed:19480240}.
+Q6P179	Endoplasmic reticulum membrane
+Q6PIU2	Cell membrane {ECO:0000269|PubMed:17052608,
+Q6UWJ1	Membrane {ECO:0000305}; Multi-pass membrane
+Q6UXY8	Membrane {ECO:0000305}; Multi-pass membrane
+Q76M96	Secreted, extracellular space, extracellular
+Q7Z7M9	Golgi apparatus membrane {ECO:0000250}; Single-
+Q86SF2	Golgi apparatus membrane {ECO:0000250}; Single-
+Q86YH2	Nucleus {ECO:0000305}.
+Q8IUX7	[Isoform 1]: Secreted
+Q8IVF2	Nucleus {ECO:0000250}.
+Q8IVT2	Cell junction, focal adhesion. Cytoplasm,
+Q8IWU5	Endoplasmic reticulum
+Q8IWU6	Endoplasmic reticulum
+Q8IZW8	Cell junction, focal adhesion
+Q8N0U8	Endoplasmic reticulum membrane
+Q8N1Q1	
+Q8N257	Nucleus. Chromosome.
+Q8N3Y7	Endoplasmic reticulum membrane
+Q8NFJ5	Cell membrane {ECO:0000269|PubMed:9857033};
+Q8TAX9	[Gasdermin-B]: Cytoplasm
+Q8WUP2	Cell junction, focal adhesion
+Q8WX93	Cytoplasm, cytoskeleton
+Q92743	Cell membrane {ECO:0000269|PubMed:21297635}.
+Q92817	Cell junction, desmosome. Cornified envelope.
+Q92828	
+Q96A08	Nucleus {ECO:0000250|UniProtKB:P70696}.
+Q96C12	Cytoplasm {ECO:0000269|PubMed:24283224}.
+Q96CG8	Secreted, extracellular space, extracellular
+Q96HF1	Secreted {ECO:0000250}.
+Q96RW7	Secreted, extracellular space, extracellular
+Q96S86	Secreted, extracellular space, extracellular
+Q96SQ9	Endoplasmic reticulum membrane
+Q99439	
+Q99541	Membrane {ECO:0000250|UniProtKB:P43883};
+Q99715	Secreted, extracellular space, extracellular
+Q99983	Secreted, extracellular space, extracellular
+Q9BUD6	Secreted, extracellular space, extracellular
+Q9BXI9	Secreted {ECO:0000305}.
+Q9BXJ4	Secreted {ECO:0000305}.
+Q9C002	Nucleus {ECO:0000269|PubMed:12209954}.
+Q9C005	Nucleus {ECO:0000269|PubMed:19651892}. Golgi
+Q9GZP8	Nucleus {ECO:0000269|PubMed:11080599}.
+Q9H299	Cytoplasm, cytosol {ECO:0000269|PubMed:10554026,
+Q9HC84	Secreted.
+Q9HCY8	Cytoplasm {ECO:0000269|PubMed:11944983}.
+Q9NR99	Secreted {ECO:0000269|PubMed:25326458,
+Q9NRS4	Cell membrane {ECO:0000305|PubMed:24434139};
+Q9NUI1	Peroxisome {ECO:0000250|UniProtKB:Q9Z2M4}.
+Q9NZM1	Cell membrane; Single-pass type II membrane
+Q9P121	Cell membrane; Lipid-anchor, GPI-anchor.
+Q9UKN7	Cell projection, stereocilium {ECO:0000250}.
+Q9UKU9	Secreted.
+Q9UKX5	Membrane; Single-pass type I membrane protein.
+Q9UMD9	Cell junction, hemidesmosome. Membrane; Single-
+Q9Y4K0	Secreted, extracellular space, extracellular
+Q9Y6K5	Cytoplasm. Nucleus.
